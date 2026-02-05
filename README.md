@@ -33,7 +33,7 @@ The exact link to the script due to an issue with it running from the S Drive at
 
 4. Then you need to Launch the application from Powershell which you can do by using the below command:
 
-<code>./ExchangeToolboxV1.ps1</code>
+<code>./ExchangeToolboxV2.ps1</code>
 
 Please Note: This command asks Powershell to run the script in the directory you are currently working in.
 
